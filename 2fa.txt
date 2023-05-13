@@ -1,0 +1,6 @@
+otpauth://totp/CoinList:email1%40rambler.ru?secret=SECRET1q&issuer=CoinList
+otpauth://totp/CoinList:email2%40rambler.ru?secret=SECRETq2&issuer=CoinList
+otpauth://totp/CoinList:email3%40rambler.ru?secret=SECRETqqq3&issuer=CoinList
+otpauth://totp/CoinList:email4%40google.com?secret=SECqqqRET4&issuer=CoinList
+otpauth://totp/CoinList:email5%40rambler.ru?secret=SEqqCRET5&issuer=CoinList
+otpauth://totp/CoinList:email6%40mail.ru?secret=SqqECRET6&issuer=CoinList
